@@ -17,7 +17,7 @@ In dodgeball, the player stands in the middle of a ground surrounded by opposite
  * The game is hosted into applab using SideQuest.
 
 # Gameplay video
- <a href="[https://www.google.com/](https://www.youtube.com/watch?v=dfQBrbTzKIg)" target="_blank">Click here to watch</a>
+ <a href="https://www.youtube.com/watch?v=dfQBrbTzKIg" target="_blank">Click here to watch</a>
 
 # Snapshots
 
