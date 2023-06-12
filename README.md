@@ -42,3 +42,7 @@ In dodgeball, the player stands in the middle of a ground surrounded by opposite
 
 ## Scoreboard
 ![d4](https://user-images.githubusercontent.com/99459415/184814232-dc5521c9-ce8f-495f-b970-ba8bac084bbf.jpg)
+
+# Improvements / Further Work
+* To increase the difficulty of the gameplay as playttime increases
+* To fix some common bugs wrt colliders and scoreboard. 
